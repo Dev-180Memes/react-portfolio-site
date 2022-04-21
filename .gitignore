@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /backend_sanity/node_modules
+/build
 /.pnp
 .pnp.js
 
